@@ -1,6 +1,5 @@
 = CanCan
 
-Changed readme to test GitHub hook on testpilot.me
 
 Wiki[https://github.com/ryanb/cancan/wiki] | RDocs[http://rdoc.info/projects/ryanb/cancan] | Screencast[http://railscasts.com/episodes/192-authorization-with-cancan]
 
