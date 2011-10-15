@@ -1,5 +1,7 @@
 source "http://rubygems.org"
 
+gem 'rake'
+
 case ENV["MODEL_ADAPTER"]
 when nil, "active_record"
   gem "sqlite3"
